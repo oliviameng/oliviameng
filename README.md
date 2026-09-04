@@ -1,6 +1,6 @@
 # Olivia Meng
 
-Senior product manager, applied AI. 12+ years shipping products at Meta, Google, Uber, Bloomberg, and WPP. Now working on agentic systems and writing about why they stall in real organizations. The model was never the bottleneck. Deployment, workflow, and the willingness to hand an agent real judgment are. 
+product staff focusing on building applied AI business applications. 12+ years shipping products at Meta, Google, Uber, Bloomberg, and WPP. Now working on agentic systems and writing about why they stall in real organizations. The model was never the bottleneck. Deployment, workflow, and the willingness to hand an agent real judgment are. 
 
 ## Repos
 
