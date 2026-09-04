@@ -14,7 +14,7 @@ More coming. Next up is a personal-intelligence system built on a tennis journal
 
 ## Contact
 
-LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/oliviameng)
+LinkedIn: [linkedin.com](https://linkedin.com/in/oliviameng)
 
 ---
 
